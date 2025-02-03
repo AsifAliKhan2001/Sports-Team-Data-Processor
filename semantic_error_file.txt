@@ -1,0 +1,10 @@
+
+Semantic Error in file: Hokey.csv
+====================
+Error: Invalid year
+Record: Avalanche, Hokey,1111, 52-16, Y
+
+Semantic Error in file: Hokey.csv
+====================
+Error: Invalid team record
+Record:  Canadiens, Hokey,2019, 36 31, N,

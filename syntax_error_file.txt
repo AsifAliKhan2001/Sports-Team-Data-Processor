@@ -1,0 +1,30 @@
+
+Syntax Error in file: games2001.csv
+====================
+Error: Unknown sport type
+Record: Avalanche, ABC,1111, 52-16, Y 
+
+Syntax Error in file: games2001.csv
+====================
+Error:  missing teamRecord field
+Record: Canadiens, Hokey,2001, ," N			"
+
+Syntax Error in file: games2011.csv
+====================
+Error: not enough field
+Record: Avalanche, Hokey,2011, 52-16,
+
+Syntax Error in file: games2011.csv
+====================
+Error: Unknown sport type
+Record: BlackJacks ,abdc,2011,20-30,N
+
+Syntax Error in file: games2019.csv
+====================
+Error: not enough field
+Record:  Canadiens, Hokey, 2019 36-31, N,,
+
+Syntax Error in file: games2019.csv
+====================
+Error: too much field
+Record:  Stampeders, Football,2019, 3-2, Y, y
